@@ -1,4 +1,3 @@
-import org.omg.CORBA.WStringSeqHelper;
 
 public class NamingJava {
     public static void main(String[] args) {
