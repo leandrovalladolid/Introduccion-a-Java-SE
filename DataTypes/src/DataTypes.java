@@ -9,8 +9,13 @@ public class DataTypes {
         float nf=123.4567890123F;
 
         //A partir de Java 10 no es necesario ingresar el tipo de variable
-        var cadena = "name";
 
+        var salary = 1000;
+        var bono = salary*0.03;
+        var total = salary + bono;
+        System.out.println(total);
+
+        var cadena = "first name";
 
     }
 }
